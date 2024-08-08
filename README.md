@@ -3,7 +3,7 @@
 ## Description
 80,000 Images - Cat Face and Dog Face Bone Landmarks Annotation Data. The collecting scenes of this dataset include indoor scenes and outdoor scenes. The data diversity includes multiple scenes, multiple dog and cat types, different face angles, different shooting distances. multiple scenes, multiple dog and cat types, different face angles, different shooting distances. This dataset can be used for tasks such as cat and dog face recognition, cat and dog identity authentication and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1227?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1227?source=Github
 
 
 ## Data size
